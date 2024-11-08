@@ -1,0 +1,24 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"last_name": {
+				"__TYPE__": "FieldContent",
+				"type": "Text",
+				"value": "Arias Hours"
+			},
+			"tag_title": {
+				"__TYPE__": "FieldContent",
+				"type": "Text",
+				"value": "UX/UI Design & Frontend developer"
+			},
+			"first_name": {
+				"__TYPE__": "FieldContent",
+				"type": "Text",
+				"value": "Violeta Sol"
+			}
+		},
+		"items": []
+	}
+]
